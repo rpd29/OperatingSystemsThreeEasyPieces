@@ -1,1 +1,1 @@
-This repository contains code I wrote for some of the exercises from Operating Systems: Three Easy Pieces book by Arpaci-Dusseau and Arpaci-Dusseau. The website associated with the book can be found [here](https://pages.cs.wisc.edu/~remzi/OSTEP/).  
+This repository contains code I wrote for some of the exercises from the book Operating Systems: Three Easy Pieces by Arpaci-Dusseau and Arpaci-Dusseau. The website associated with the book can be found [here](https://pages.cs.wisc.edu/~remzi/OSTEP/).  
